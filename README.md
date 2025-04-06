@@ -1,5 +1,5 @@
 
-# 📊 Segmentation de la clientèle en marketing 
+# Segmentation de la clientèle en marketing 
 
 ##  Description du projet
 
