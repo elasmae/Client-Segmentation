@@ -14,7 +14,7 @@ Vous travaillerez avec des données issues d’une enquête d’onboarding clien
 L'objectif principal est d'identifier des **segments de clients distincts** afin de mieux comprendre leur comportement et d’optimiser les campagnes marketing.
 
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Comprendre dans quelle mesure les **canaux d’acquisition** influencent les résultats d'apprentissage des étudiants.
 - Identifier les **zones géographiques** où la plateforme est majoritairement découverte via les **réseaux sociaux**.
@@ -23,14 +23,14 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 
 ---
 
-## 📁 Data
+##  Data
 
 - `customer_segmentation_data.csv` : contient les données principales sur les clients.
 - `Segmentation data legend.xlsx` : description et signification des variables utilisées.
 
 ---
 
-## 🧪 Étapes du projet
+##  Étapes du projet
 
 1. **Chargement et exploration** des données clients
 2. **Prétraitement** des données (nettoyage, normalisation, etc.)
@@ -44,7 +44,7 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 
 ---
 
-## 📌 Résultat attendu
+##  Résultat attendu
 
 À l'issue de ce projet, vous serez capable de :
 - Identifier des groupes de clients aux comportements similaires
@@ -54,7 +54,7 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 Asmae EL MAHJOUBI
 
