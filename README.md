@@ -1,7 +1,7 @@
 
 # 📊 Segmentation de la clientèle en marketing 
 
-## 📝 Description du projet
+##  Description du projet
 
 Ce projet vise à explorer la **segmentation des clients** à l’aide d’algorithmes de **clustering**, notamment **K-Means** et le **clustering hiérarchique**, dans le but d’élaborer des **stratégies marketing efficaces**.
 
@@ -27,32 +27,6 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 
 - `customer_segmentation_data.csv` : contient les données principales sur les clients.
 - `Segmentation data legend.xlsx` : description et signification des variables utilisées.
-
----
-
-## ⚙️ Prérequis
-
-Ce projet nécessite :
-
-- Python **v3**
-- Jupyter Notebook
-
-### Bibliothèques Python nécessaires :
-
-```bash
-pandas  
-numpy  
-matplotlib  
-seaborn  
-scipy  
-scikit-learn  
-```
-
-Vous pouvez installer toutes les dépendances avec :
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy scikit-learn
-```
 
 ---
 
