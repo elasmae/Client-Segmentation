@@ -1,11 +1,11 @@
 
 # Segmentation de la clientèle en marketing 
 
-##  Description du projet
+##  Description 
 
-Ce projet vise à explorer la **segmentation des clients** à l’aide d’algorithmes de **clustering**, notamment **K-Means** et le **clustering hiérarchique**, dans le but d’élaborer des **stratégies marketing efficaces**.
+Ce travail vise à explorer la **segmentation des clients** à l’aide d’algorithmes de **clustering**, notamment **K-Means** et le **clustering hiérarchique**, dans le but d’élaborer des **stratégies marketing efficaces**.
 
-Vous travaillerez avec des données issues d’une enquête d’onboarding client, contenant des informations telles que :
+les données sont issues d’une enquête d’onboarding client, contenant des informations telles que :
 - Le pays de résidence
 - La valeur client à vie (Customer Lifetime Value)
 - Le niveau d’engagement global
@@ -21,14 +21,6 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 - Réaliser une **segmentation du marché** basée sur des données réelles.
 - Utiliser des **algorithmes de clustering** pour regrouper les clients selon leur comportement et caractéristiques.
 
----
-
-##  Data
-
-- `customer_segmentation_data.csv` : contient les données principales sur les clients.
-- `Segmentation data legend.xlsx` : description et signification des variables utilisées.
-
----
 
 ##  Étapes du projet
 
@@ -42,8 +34,6 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 6. **Visualisation** et **interprétation des résultats**
 7. Proposition de **stratégies marketing personnalisées**
 
----
-
 ##  Résultat attendu
 
 À l'issue de ce projet, vous serez capable de :
@@ -51,8 +41,6 @@ L'objectif principal est d'identifier des **segments de clients distincts** afin
 - Comprendre l’impact des canaux d’acquisition sur l’engagement
 - Appliquer des techniques de clustering pour la segmentation client
 - Adapter les campagnes marketing à chaque segment
-
----
 
 ##  Auteur
 
